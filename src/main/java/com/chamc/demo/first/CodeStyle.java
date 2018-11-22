@@ -1,6 +1,6 @@
 package com.chamc.demo.first;
 
-public class SpaceCodeStyle {
+public class CodeStyle {
 
 	// 没有必要增加若干空格使变量的赋值等号与上一行对应位置的等号对齐
 	private static Integer one = 1;
